@@ -1,7 +1,4 @@
 # Tip-Calculator
-Here’s an edited version of your text with an expanded explanation of the usefulness of the `if` and `else` statements in your example:
-
----
 
 ### Summary
 In Python, the `if-else` statement is a powerful control structure that allows you to create decision-making logic in your program. It helps check whether certain conditions are met and then directs the flow of the program accordingly. This is particularly useful when you need to validate or process user input, as it allows the program to react differently based on specific criteria. If the conditions meet the specified requirements, the program proceeds with the next step. If not, it can take an alternative action, ensuring that your program handles different cases effectively and flexibly.
@@ -55,7 +52,3 @@ else:
 5. **Scalability**: As new file types need to be supported in the future, the logic in the `if-else` block can be easily expanded by adding new `elif` conditions. For example, if the company starts using `.docx` files, you can simply add another `elif` clause to handle that case.
 
 In summary, the `if-else` statement in this example is a critical part of the logic that ensures the program reacts to user input appropriately, handles different scenarios, and provides meaningful output based on the file type provided by the user.
-
----
-
-This expanded version provides a clearer understanding of how the `if-else` structure works in this case and why it is essential for creating a robust and user-friendly program
